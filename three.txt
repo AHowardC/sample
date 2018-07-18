@@ -1,1 +1,2 @@
 from vi first line on file (three.txt).
+modify file three.txt first time.
